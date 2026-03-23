@@ -72,13 +72,6 @@ I enjoy solving complex data problems, optimizing pipelines, and enabling data-d
 
 ---
 
-## 🌟 Projects
-- **RAG Chatbot** – AI-powered document Q&A system using agentic reasoning for complex queries.  
-- **Real-time Order Analytics** – Multi-tenant, sub-2-minute latency analytics platform for KFC UK & Ireland outlets.  
-- **Serverless ETL Pipelines** – Event-driven AWS pipelines centralizing DynamoDB and S3 data with automated deployment.
-
----
-
 ## 📫 Contact
 - Email: prashanth.chinthapoola@gmail.com  
 - Phone: +353 899616493  
